@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: django-auto-crud-generation
+Version: 0.1.0
+Summary: Automatic CRUD generation for Django models (Web + API + Templates + Exports + Permissions)
+Home-page: https://github.com/mohammed0115/django-auto-crud-generation
+Author: Your Name
+Classifier: Programming Language :: Python :: 3
+Classifier: Framework :: Django
+Classifier: License :: OSI Approved :: MIT License
+Requires-Dist: Django>=4.2
+Requires-Dist: djangorestframework>=3.14
+Requires-Dist: django-filter>=23.2
+Requires-Dist: pandas>=2.1
+Requires-Dist: openpyxl>=3.1
+Requires-Dist: python-decouple>=3.8
+Requires-Dist: xlrd>=2.0
+Dynamic: author
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary

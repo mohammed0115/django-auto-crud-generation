@@ -1,0 +1,13 @@
+README.md
+setup.py
+config/__init__.py
+config/asgi.py
+config/settings.py
+config/urls.py
+config/wsgi.py
+django_auto_crud_generation.egg-info/PKG-INFO
+django_auto_crud_generation.egg-info/SOURCES.txt
+django_auto_crud_generation.egg-info/dependency_links.txt
+django_auto_crud_generation.egg-info/entry_points.txt
+django_auto_crud_generation.egg-info/requires.txt
+django_auto_crud_generation.egg-info/top_level.txt
