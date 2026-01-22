@@ -77,10 +77,10 @@ class Product(models.Model):
 
 ```bash
 # لتوليد CRUD مع Bootstrap
-python manage.py generate_crud core Product --template=bootstrap
+python manage.py generate_crud products Product --template=bootstrap
 
 # أو مع Tailwind
-python manage.py generate_crud core Product --template=tailwind
+python manage.py generate_crud products Product --template=tailwind
 ```
 
 ### 3️⃣ نسخ الملفات المولدة
@@ -207,11 +207,11 @@ MIT License
 
 ## المؤلف
 
-Django CRUD Generator Team
-
+https://github.com/mohammed0115
 ## الدعم
 
 للمساعدة والأسئلة، يرجى فتح issue على GitHub.
+
 =======
 # Django Auto CRUD Generator
 
